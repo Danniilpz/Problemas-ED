@@ -1,0 +1,15 @@
+administracion: Carlota
+administracion: Juan
+ERROR: Persona inexistente
+Beatriz: administracion biblioteca informatica jardineria
+informatica: Carlota
+informatica: Beatriz
+ERROR: No existen personas apuntadas a este empleo
+ERROR: No existen personas apuntadas a este empleo
+---
+ERROR: No existen personas apuntadas a este empleo
+Ivan: administracion informatica
+informatica: Ivan
+ERROR: No existen personas apuntadas a este empleo
+ERROR: Persona inexistente
+---
